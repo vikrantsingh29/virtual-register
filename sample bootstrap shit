@@ -1,0 +1,167 @@
+<%-- 
+    Document   : login
+    Created on : May 16, 2015, 9:24:53 PM
+    Author     : Amit
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <style>
+      
+  </style>
+  
+    </head>
+    <body>
+        <div class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="" class="navbar-brand">10things</a>
+                </div>
+                <div class="collapse navbar-collapse" id="example">
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="">home</a></li>
+                        <li><a href="">get started</a></li>
+                        <li><a href="">wander around</a></li>
+                   </ul>
+                    
+                    
+                </div>
+            </div>
+        </div>
+             
+        <div class="container">
+            <p>dumggghiiidghi sssssssssssssssssssssssssssssssssssssssdddddddd
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+            </p>
+                        <p>dumggghiiidghi sssssssssssssssssssssssssssssssssssssssdddddddd
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+            </p>
+                        <p>dumggghiiidghi sssssssssssssssssssssssssssssssssssssssdddddddd
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+            </p>
+                        <p>dumggghiiidghi sssssssssssssssssssssssssssssssssssssssdddddddd
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+            </p>
+                        <p>dumggghiiidghi sssssssssssssssssssssssssssssssssssssssdddddddd
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+            </p>
+                        <p>dumggghiiidghi sssssssssssssssssssssssssssssssssssssssdddddddd
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+            </p>
+                        <p>dumggghiiidghi sssssssssssssssssssssssssssssssssssssssdddddddd
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+            </p>
+                        <p>dumggghiiidghi sssssssssssssssssssssssssssssssssssssssdddddddd
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+            </p>
+                        <p>dumggghiiidghi sssssssssssssssssssssssssssssssssssssssdddddddd
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+            </p>            <p>dumggghiiidghi sssssssssssssssssssssssssssssssssssssssdddddddd
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+                dddddddddddffff777777777777777777777777777777fffffffffffffffffffffffffffffffffuuuuuuuu
+            </p>
+            <div class="row">
+                <div class="col-md-3 well">first</div>
+                <div class="col-md-4 well">second</div>
+                <div class="col-md-5 ">
+                    <div class="row">
+                    <div class="col-md-6 well">third</div>
+                    <div class="col-md-6 well">fourth</div>
+                </div></div>
+            </div>
+        <form action="">
+            <div class="form-group has-warning has-feedback">
+                <label for="element1" class="control-label">this is a warning label</label>
+                <input type="text" class="form-control"></label>
+                <span class="glyphicon glyphicon-warning-sign form-control-feedback"></span>
+            </div>
+            <div class="form-group has-success has-feedback">
+                <label for="element1" class="control-label">this is a success label</label>
+                <input type="text" class="form-control"></label>
+                <span class="glyphicon glyphicon-ok form-control-feedback"></span>
+            </div>
+            <p class="help-block">first form</p>
+        </form>
+        <hr>
+        <form action="" class="form-inline">
+            <div class="form-group">
+                <label for="element" class="sr-only" >username</label>
+                <input type="text" class="form-control input-lg" placeholder="enter your email">
+                
+                <label for="element3" class="sr-only" >password</label>
+                <input type="text" class="form-control input-sm" placeholder="enter password">
+                
+            <div class="checkbox">
+                <label for=""><input type="checkbox" >remember me</label>
+            </div>
+                <button type="button" class="btn btn-primary">submit</button>
+            </div>
+            <p class="help-block">second form</p>
+        </form>
+        <hr>
+        <form action="">
+            <div class="row">
+                <div class="col-lg-2">
+                    <input type="text" class="form-control" placeholder="2 block wide input">
+                </div>
+                <div class="col-lg-3">
+                    <input type="text" class="form-control" placeholder="3 block wide input">
+                </div>
+                <div class="col-lg-4">
+                    <input type="text" class="form-control" placeholder="4 block wide input">
+                </div>
+        </div>
+            <hr><hr>
+            <div class="dropdown">
+                <button class="btn btn-default dropdown-toggle" type="button" data-toggle="dropdown">cool dropdown
+                </button><span class="caret"></span>
+                <ul class="dropdown-menu">  
+                    <li><a href="">c</a></li>
+                    <li class="divider"></li>
+                    <li><a href=""> java</a></li>
+                </ul>
+            </div>
+            <div class="well">
+                <table class="table">
+                    <tr>
+                        <td><b>first name </b></td>
+                    <td><b>last name </b></td>
+                    <td><b>age</b></td>
+                    </tr>
+                    <tr>
+                        <td>aa</td>
+                    <td>ss</td>
+                    <td>32</td>
+                    </tr><tr>
+                        <td>ss</td>
+                    <td>dd</td>
+                    <td>34</td>
+                    </tr>    
+                </table>
+            </div>
+            
+    </body>
+</html>
