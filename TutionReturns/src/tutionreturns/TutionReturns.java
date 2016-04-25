@@ -347,12 +347,9 @@ public void osd()       				//old student details
             b6=new JButton("");
             i23=new ImageIcon("images//feesdetails.png");
 	    b6.setIcon(i23);
-            b18=new JButton("");
-            i20=new ImageIcon("images//feesdetails.png");	
-            b18.setIcon(i20);
-            b19=new JButton("");	
-            i27=new ImageIcon("images//personaldetails.png");	
-            b19.setIcon(i27);
+           b18=new JButton("Fees Updation ");
+            
+           b19=new JButton("Personal details updation");
 		
 		b7=new JButton("");
 		i24=new ImageIcon("images//updation.png");
